@@ -28,9 +28,3 @@ A **Flask-based web application** that predicts whether a loan will be approved 
 
 ---
 
-## How to Use
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/yourusername/Loan-Prediction-Flask.git
